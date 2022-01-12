@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+I am a computer science student at the Pennsylvania State University!
+
+<!--
+### Projects
+
+|Name|Description|Tooling|
+|-|-|-|
+-->
+
 ### Socials
 [<img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/kinnerparikh/)
 <!--

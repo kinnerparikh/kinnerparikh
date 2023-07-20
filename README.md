@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a computer science student at the Pennsylvania State University!
+I am a computer science student at the University of Washington!
 
 <!--
 ### Projects

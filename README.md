@@ -25,3 +25,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Fun Stuff
+<a href="https://my.flightradar24.com/kinn"><img src="https://banners-my.flightradar24.com/kinn.png" alt="My Flightdiary.net profile" /></a>

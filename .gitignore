@@ -1,0 +1,9 @@
+# ignore everything
+*
+
+# except
+!.gitignore
+!README.md
+!resume/
+!resume/*.pdf
+!resume/*.tex

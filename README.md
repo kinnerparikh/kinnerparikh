@@ -12,8 +12,8 @@ I am a computer science student at the University of Washington!
 |-|-|-|
 -->
 
-### Socials
-<a href="https://www.linkedin.com/in/kinnerparikh/"><img src="./assets/LI-Logo.png" alt="LinkedIn Logo" width="100">
+<!-- ### Socials
+<a href="https://www.linkedin.com/in/kinnerparikh/"><img src="./assets/LI-Logo.png" alt="LinkedIn Logo" width="100"> -->
 
 <!--
 **kinnerparikh/kinnerparikh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
